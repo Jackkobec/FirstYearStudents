@@ -13,7 +13,7 @@ import java.util.List;
 /**
  * Created by Jack on 09.01.2017.
  */
-public class testProfessorUtils {
+public class TestProfessorUtils {
 
     public static void main(String[] args) {
 

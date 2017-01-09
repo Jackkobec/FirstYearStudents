@@ -64,5 +64,6 @@ public class TestProfessorUtils {
         System.out.println("Negative test:"  + "\n");
         System.out.println("Expected: " + "false");
         System.out.println("Actual: " + iProfessorUtils.StudentsRollCall(currentLessonWithNotAllPresent, group));
+        System.out.println("======================");
     }
 }
